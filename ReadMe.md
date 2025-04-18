@@ -1,0 +1,1 @@
+It is a planing portfolio site. Done by HTML-5 and CSS-3. It is not responsible.
